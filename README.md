@@ -1,4 +1,4 @@
-# Hello, I am Bill
+# Welcome to my Projects Page
 
 I will soon graduate SNHU with Bachelors in Cybersecurity and have a profound interest in technology and a dedication to solving complex problems.
 
