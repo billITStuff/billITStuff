@@ -1,25 +1,12 @@
 # Hello, I am Bill
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I will soon graduate SNHU with Bachelors in Cybersecurity and have a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a security team as a SOC Tier 1 Analyst or Pentester.
 
 ## Skills
-
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Using Putty to SSH into Fedora         | <a href="https://github.com/billITStuff/PuttyIntoFedora">Fedora Lab</a>|
-| Network Traffic Monitoring and Attack Detection | SOC Automation Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-
 
 ### Network
 <!--
@@ -30,6 +17,18 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 -->
 
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Using Putty to SSH into Fedora         | <a href="https://github.com/billITStuff/PuttyIntoFedora">Fedora Lab</a>|
+| Network Traffic Monitoring and Attack Detection | SOC Automation Lab|
+
+## Tools
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Using Putty to SSH into Fedora         | <a href="https://github.com/billITStuff/PuttyIntoFedora">Fedora Lab</a>|
+| Network Traffic Monitoring and Attack Detection | SOC Automation Lab|
+
 ### Endpoint
 <!--
 <div>
@@ -37,6 +36,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 -->
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Using Putty to SSH into Fedora         | <a href="https://github.com/billITStuff/PuttyIntoFedora">Fedora Lab</a>|
+
 ### SIEM
 <!--
 <div>
@@ -45,6 +48,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 -->
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 ## Certifications
 <!--
 <div>
