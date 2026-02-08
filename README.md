@@ -8,6 +8,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Skills
 
+## School Projects
+Here is a repo of my <a href="https://github.com/billITStuff/School_Projects.git">School Projects</a>. 
+
 ### Network
 <!--
 <div>
