@@ -11,6 +11,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## School Projects
 Here is a repo of my <a href="https://github.com/billITStuff/School_Projects.git">School Projects</a>. 
 
+This is my other Repo. It is for my programming stuff.<a href="https://wspascoe.github.io/">Other Repo </a>.
+
 ### Network
 <!--
 <div>
